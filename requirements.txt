@@ -5,6 +5,10 @@ langchain
 langchain_community
 langchain_core
 langchain_openai
+langchain-google-genai
 langgraph
-# youtuve-search-python
+# youtube-search-python
 youtube-search
+
+tavily-python
+langchain-tavily
